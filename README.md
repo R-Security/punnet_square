@@ -5,4 +5,4 @@ no need for manual square process and no need for testing the program as its alr
 Easy to use, changeable values, less storage space, efficient and most importantly, contains error detection functionality.
 # Example-
         rR = wrong genotype, shouldn't have small "r" before the capital "R".
-         The program automatically identifies this error and prompts the user with the correct values according to the number of times the error has occured
+         The program automatically identifies this error and prompts the user with the correct values according to the number of times the error has occurred
